@@ -1,0 +1,23 @@
+shape,processor,vCPU,metric,max_settable,price($/h),rangeMin(h/month),rangeMax(h/month)
+A1,Ampere Altra Q80-30,1,1 OCPU,76,0.0,0.0,3000.0
+A1,Ampere Altra Q80-30,1,1 OCPU,76,0.01,3000.0,999999999999999.0
+A1,Ampere Altra Q80-30,,1 GB(ram),472,0.0,0.0,18000.0
+A1,Ampere Altra Q80-30,,1 GB(ram),472,0.0015,18000.0,999999999999999.0
+A2,Ampere AmpereOne A160-30,2,1 OCPU,156,0.014,,
+A2,Ampere AmpereOne A160-30,,1 GB(ram),946,0.002,,
+A4,Ampere AmpereOne M A06-36M,2,1 OCPU,90,0.0138,,
+A4,Ampere AmpereOne M A06-36M,,1 GB(ram),700,0.0027,,
+A4 Ax,Ampere AmpereOne M 192-36M,2,1 OCPU,90,0.019,,
+A4 Ax,Ampere AmpereOne M 192-36M,,1 GB(ram),720,0.0084,,
+E4,AMD EPYC 7J13,2,1 OCPU,228,0.025,,
+E4,AMD EPYC 7J13,,1 GB(ram),1760,0.0015,,
+E5,AMD EPYC 9J14,2,1 OCPU,252,0.03,,
+E5,AMD EPYC 9J14,,1 GB(ram),2098,0.002,,
+E6,AMD EPYC 9J45,2,1 OCPU,252,0.03,,
+E6,AMD EPYC 9J45,,1 GB(ram),1454,0.002,,
+E6 Ax,AMD EPYC 9J45,2,1 OCPU,188,0.0138,,
+E6 Ax,AMD EPYC 9J45,,1 GB(ram),712,0.0108,,
+X9,Intel Xeon Platinum 8358,2,1 OCPU,112,0.04,,
+X9,Intel Xeon Platinum 8358,,1 GB(ram),896,0.0015,,
+X12 Ax,Intel Xeon 6987P-C,2,1 OCPU,78,0.0119,,
+X12 Ax,Intel Xeon 6987P-C,,1 GB(ram),360,0.0114,,

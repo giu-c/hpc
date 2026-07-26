@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Ignora tutto il contenuto che gli script genereranno nella cartella
+data/01.raw/ec2_regions/*
+data/02.cleaned/ec2_regions/*
+
+
+# Ma mantieni il file segnaposto per far esistere la cartella su GitHub
+!data/01.raw/ec2_regions/.gitkeep
+!data/02.cleaned/ec2_regions/.gitkeep

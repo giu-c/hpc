@@ -1,0 +1,11 @@
+shape,processor,vCPU($/h),ram($/h),max_vCPU,max_ram,vCPU_rangeMin(h/month),ram_rangeMin(h/month)
+A1,Ampere Altra Q80-30,0.01,0.0015,76,472,3000.0,18000.0
+A2,Ampere AmpereOne A160-30,0.007,0.002,156,946,,
+A4,Ampere AmpereOne M A06-36M,0.0069,0.0027,90,700,,
+A4 Ax,Ampere AmpereOne M 192-36M,0.0095,0.0084,90,720,,
+E4,AMD EPYC 7J13,0.0125,0.0015,228,1760,,
+E5,AMD EPYC 9J14,0.015,0.002,252,2098,,
+E6,AMD EPYC 9J45,0.015,0.002,252,1454,,
+E6 Ax,AMD EPYC 9J45,0.0069,0.0108,188,712,,
+X9,Intel Xeon Platinum 8358,0.02,0.0015,112,896,,
+X12 Ax,Intel Xeon 6987P-C,0.00595,0.0114,78,360,,

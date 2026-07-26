@@ -1,0 +1,30 @@
+shape,metric,price($),rangeMin(h/month),rangeMax(h/month)
+A2,1 OCPU/h,0.0140,,
+A2,1 GB(ram)/h,0.0020,,
+E6,1 OCPU/h,0.0300,,
+E6,1 GB(ram)/h,0.0020,,
+X12 Ax,1 OCPU/h,0.0119,,
+X12 Ax,1 GB(ram)/h,0.0114,,
+A4,1 OCPU/h,0.0138,,
+A4,1 GB(ram)/h,0.0027,,
+E6 Ax,1 OCPU/h,0.0138,,
+E6 Ax,1 GB(ram)/h,0.0108,,
+A4 Ax,1 OCPU/h,0.0190,,
+A4 Ax,1 GB(ram)/h,0.0084,,
+X5,1 OCPU/h,0.0638,,
+X7,1 OCPU/h,0.0638,,
+E2,1 OCPU/h,0.0300,,
+B1,1 OCPU/h,0.0638,,
+E2 Micro,1 OCPU/h,0.0000,,
+E3,1 OCPU/h,0.0250,,
+E3,1 GB(ram)/h,0.0015,,
+E4,1 OCPU/h,0.0250,,
+E4,1 GB(ram)/h,0.0015,,
+A1,1 OCPU/h,0.0000,0.0000,3000.0000
+A1,1 OCPU/h,0.0100,3000.0000,999999999999999.0000
+A1,1 GB(ram)/h,0.0000,0.0000,18000.0000
+A1,1 GB(ram)/h,0.0015,18000.0000,999999999999999.0000
+X9,1 OCPU/h,0.0400,,
+X9,1 GB(ram)/h,0.0015,,
+E5,1 OCPU/h,0.0300,,
+E5,1 GB(ram)/h,0.0020,,
