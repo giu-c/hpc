@@ -4,12 +4,12 @@ from pathlib import Path
 # ==============================================================================
 # COSTANTI DI CONFIGURAZIONE
 # ==============================================================================
-DATASET = Path('oci.csv')  # File CSV di input ⚠️IMPOSTARE NOME DEL FILE E PERCORSO CORRETTO⚠️
+DATASET = Path('hpc.csv')  # File CSV di input ⚠️IMPOSTARE NOME DEL FILE E PERCORSO CORRETTO⚠️
 SKIPROWS = 0                          # Righe da saltare (0 se non ha metadati iniziali)
 N_SAMPLES = 30                        # Numero di osservazioni da campionare
 LIMIT_MAX = None                      # Limite riga file originale. Se None, usa l'intera lunghezza del dataset.
 RANDOM_STATE = None                   # Seed per la riproducibilità (imposta a None per campioni sempre diversi)
-OUTPUT_FILE = 'oci_sample.csv'        # Nome del file CSV di output
+OUTPUT_FILE = 'sample.csv'        # Nome del file CSV di output
 # ==============================================================================
 
 def data_sampling():

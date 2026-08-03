@@ -1,0 +1,82 @@
+﻿provider,geo,state
+OCI,Stati Uniti orientali (Ashburn),Virginia
+OCI,Midwest degli Stati Uniti (Chicago),Illinois
+OCI,Stati Uniti occidentali (Phoenix),Arizona
+OCI,Stati Uniti occidentali (San Jose),California
+OCI,Canada sud-orientale (Montreal),Canada
+OCI,Canada sud-orientale (Toronto),Canada
+OCI,Messico centrale (Querétaro),Messico
+OCI,Messico nord-orientale (Monterrey),Messico
+OCI,Brasile orientale (San Paolo),Brasile
+OCI,Brasile sud-orientale (Vinhedo),Brasile
+OCI,Cile centrale (Santiago),Cile
+OCI,Cile occidentale (Valparaiso),Cile
+OCI,Colombia centrale (Bogotà),Colombia
+OCI,Francia centrale (Parigi),Francia
+OCI,Francia meridionale (Marsiglia),Francia
+OCI,Germania centrale (Francoforte),Germania
+OCI,Italia nord-occidentale (Milano),Italia
+OCI,Italia settentrionale (Torino),Italia
+OCI,Paesi Bassi nord-occidentali (Amsterdam),Paesi Bassi
+OCI,Serbia Centrale (Jovanovac),Serbia
+OCI,Spagna centrale (Madrid),Spagna
+OCI,Spagna centrale 2 (Madrid),Spagna
+OCI,Svezia centrale (Stoccolma),Svezia
+OCI,Svizzera nord (Zurigo),Svizzera
+OCI,Regno Unito sud (Londra),Regno Unito
+OCI,Regno Unito occidentale (Newport),Regno Unito
+OCI,Kenya,Kenya
+OCI,Marocco occidentale (Casablanca),Marocco
+OCI,Marocco 2,Marocco
+OCI,Sud Africa centrale (Johannesburg),Sud Africa
+OCI,Israele centrale (Gerusalemme),Israele
+OCI,Arabia Saudita occidentale (Gedda),Arabia Saudita
+OCI,Arabia Saudita centrale (Riyad),Arabia Saudita
+OCI,Emirati Arabi Uniti orientali (Dubai),Emirati Arabi Uniti
+OCI,Emirati Arabi Uniti centrali (Abu Dhabi),Emirati Arabi Uniti
+OCI,India occidentale (Mumbai),India
+OCI,India del sud (Hyderabad),India
+OCI,Indonesia settentrionale (Batam),Indonesia
+OCI,Giappone orientale (Tokyo),Giappone
+OCI,Giappone centrale (Osaka),Giappone
+OCI,Malesia occidentale (Kulai),Malesia
+OCI,Singapore (Singapore),Singapore
+OCI,Regione occidentale di Singapore (Singapore),Singapore
+OCI,Corea del Sud centrale (Seul),Corea del Sud
+OCI,Corea del Sud settentrionale (Chuncheon),Corea del Sud
+OCI,Australia orientale (Sydney),Australia
+OCI,Australia sud-orientale (Melbourne),Australia
+AWS,us-east-1,Virginia
+AWS,us-east-2,Ohio
+AWS,us-west-1,California
+AWS,us-west-2,Oregon
+AWS,ca-central-1,Canada
+AWS,ca-west-1,Canada
+AWS,mx-central-1,Messico
+AWS,sa-east-1,Brasile
+AWS,eu-central-1,Germania
+AWS,eu-central-2,Svizzera
+AWS,eu-west-1,Irlanda
+AWS,eu-west-2,Regno Unito
+AWS,eu-west-3,Francia
+AWS,eu-south-1,Italia
+AWS,eu-south-2,Spagna
+AWS,eu-north-1,Svezia
+AWS,af-south-1,Sud Africa
+AWS,il-central-1,Israele
+AWS,me-south-1,Bahrein
+AWS,me-central-1,Emirati Arabi Uniti
+AWS,ap-east-1,Cina (Hong Kong)
+AWS,ap-east-2,Taiwan
+AWS,ap-south-1,India
+AWS,ap-south-2,India
+AWS,ap-southeast-1,Singapore
+AWS,ap-southeast-3,Indonesia
+AWS,ap-southeast-5,Malesia
+AWS,ap-southeast-7,Thailandia
+AWS,ap-northeast-1,Giappone
+AWS,ap-northeast-2,Corea del Sud
+AWS,ap-northeast-3,Giappone
+AWS,ap-southeast-2,Australia
+AWS,ap-southeast-4,Australia
+AWS,ap-southeast-6,Nuova Zelanda
