@@ -46,12 +46,12 @@ oci_red_darker = '#c53030'
 emerald_green = '#10b981'
 
 # Tracciamento linee
-ax.plot(x, y_aws, color=aws_color_lighter, linewidth=3.5, linestyle='-', label=r"AWS: Global (≤100GB: Free | Multi-tiered rate)", zorder=5)
-ax.plot(x, y_oci_na_eu, color=oci_red_darker, linewidth=3, linestyle='-', label=r"OCI: EU, North America & UK (≤10TB: Free | \$8.50/TB)", zorder=4)
+ax.plot(x, y_aws, color=aws_color_lighter, linewidth=3.5, linestyle='-', label=r"AWS: All Regions", zorder=5)
+ax.plot(x, y_oci_na_eu, color=oci_red_darker, linewidth=3, linestyle='-', label=r"OCI: EU, North America & UK", zorder=4)
 
-ax.plot(x, y_oci_apac_sa, color=oci_red_darker, linewidth=2.5, linestyle='-', marker='d', markevery=40, markersize=5.5, label=r"OCI: APAC & South America (≤10TB: Free | \$25.00/TB)", zorder=4)
+ax.plot(x, y_oci_apac_sa, color=oci_red_darker, linewidth=2.5, linestyle='-', marker='d', markevery=40, markersize=5.5, label=r"OCI: APAC & South America", zorder=4)
 
-ax.plot(x, y_oci_mea, color=oci_red_darker, linewidth=2, linestyle='--', label=r"OCI: Middle East & Africa (≤10TB: Free | \$50.00/TB)", zorder=4)
+ax.plot(x, y_oci_mea, color=oci_red_darker, linewidth=2, linestyle='--', label=r"OCI: Middle East & Africa", zorder=4)
 
 ax.axvline(x=100000, color='#ffffff', linestyle='--', linewidth=1.2, alpha=0.8, zorder=6)
 
