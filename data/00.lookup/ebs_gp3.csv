@@ -1,0 +1,35 @@
+region_code,region_name,currency,iops_extra_usd_iops_mo,throughput_extra_usd_mibps_mo,storage_usd_gb_mo
+af-south-1,Africa (Cape Town),USD,0.0065,53.6576,0.1047
+ap-east-1,Asia Pacific (Hong Kong),USD,0.0066,54.0672,0.1056
+ap-northeast-1,Asia Pacific (Tokyo),USD,0.006,49.152,0.096
+ap-northeast-2,Asia Pacific (Seoul),USD,0.0057,46.6944,0.0912
+ap-northeast-3,Asia Pacific (Osaka),USD,0.006,49.152,0.096
+ap-south-1,Asia Pacific (Mumbai),USD,0.0057,46.6944,0.0912
+ap-south-2,Asia Pacific (Hyderabad),USD,0.0057,46.6944,0.0912
+ap-southeast-1,Asia Pacific (Singapore),USD,0.006,49.152,0.096
+ap-southeast-2,Asia Pacific (Sydney),USD,0.006,49.152,0.096
+ap-southeast-3,Asia Pacific (Jakarta),USD,0.006,49.152,0.096
+ap-southeast-4,Asia Pacific (Melbourne),USD,0.006,49.152,0.096
+ca-central-1,Canada (Central),USD,0.0055,45.056,0.088
+ca-west-1,Canada West (Calgary),USD,0.0055,45.056,0.088
+eu-central-2,Europe (Zurich),USD,0.007,58.4909,0.1142
+eu-south-2,Europe (Spain),USD,0.0055,45.056,0.088
+il-central-1,Israel (Tel Aviv),USD,0.0066,54.0672,0.1056
+me-central-1,Middle East (UAE),USD,0.0061,49.5616,0.0968
+me-south-1,Middle East (Bahrain),USD,0.0061,49.5616,0.0968
+unknown,Asia Pacific (Malaysia),USD,0.0054,44.2368,0.0864
+unknown,Asia Pacific (New Zealand),USD,0.0063,51.6096,0.1008
+unknown,Asia Pacific (Taipei),USD,0.0054,44.2368,0.0864
+unknown,Asia Pacific (Thailand),USD,0.0054,44.2368,0.0864
+unknown,EU (Frankfurt),USD,0.006,48.7424,0.0952
+unknown,EU (Ireland),USD,0.0055,45.056,0.088
+unknown,EU (London),USD,0.0058,47.5136,0.0928
+unknown,EU (Milan),USD,0.0058,47.3088,0.0924
+unknown,EU (Paris),USD,0.0058,47.5136,0.0928
+unknown,EU (Stockholm),USD,0.0052,42.8032,0.0836
+unknown,Mexico (Central),USD,0.0053,43.008,0.084
+unknown,South America (Sao Paulo),USD,0.0095,77.824,0.152
+us-east-1,US East (N. Virginia),USD,0.005,40.96,0.08
+us-east-2,US East (Ohio),USD,0.005,40.96,0.08
+us-west-1,US West (N. California),USD,0.006,49.152,0.096
+us-west-2,US West (Oregon),USD,0.005,40.96,0.08
